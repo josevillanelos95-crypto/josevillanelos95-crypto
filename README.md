@@ -31,6 +31,15 @@ Parser propio de comprobantes electrónicos XML, generación del **ATS** validad
 
 POS con módulos activables según el giro del negocio: reparaciones, fiados e impresión térmica, sobre una arquitectura multi-tenant.
 
+**Demo:** `demo@controla.test` · `Controla2026`
+
+### 🍽️ RestoClick — Punto de venta para restaurantes
+**[restoclick.web.app](https://restoclick.web.app)** · en producción
+
+POS multiplataforma (teléfono, tablet y computador) con **facturación electrónica del SRI emitida desde la misma pantalla de cobro**. Lo difícil no fue el POS: fue que la factura cuadre al centavo. El 10% de servicio va como propina y no en la base imponible; los descuentos se reparten línea por línea porque cada una declara su propio impuesto; y el redondeo debe seguir el mismo orden que usa el SRI. Soporta dividir la cuenta sin cerrar la mesa y pagos repartidos por método en el cierre.
+
+**Demo:** `demo@laterraza.com` · `KhiEdCeJuTCpHb`
+
 ### 👗 Aura Moda — Tienda de ropa con IA
 PWA con clasificación visual de prendas usando Claude, galería por selector y panel de administración.
 
